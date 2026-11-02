@@ -1,0 +1,20 @@
+Rows: 1465 Unique product IDs: 1351
+Missing numerical fields: {'actual_price': 0, 'discounted_price': 0, 'discount_percentage': 0, 'rating': 1, 'rating_count': 2}
+Median discounted price INR: 799.0
+Median discount %: 50.0
+Mean rating: 4.096584699453552
+Pearson price/rating: 0.12033741712288648
+
+Main categories:
+                        products  median_price_inr  median_discount_pct
+main_category                                                         
+Electronics                 526            1399.0                 54.0
+Computers&Accessories       453             349.0                 58.0
+Home&Kitchen                448            1199.0                 41.5
+OfficeProducts               31             178.0                  5.0
+MusicalInstruments            2             638.0                 46.0
+HomeImprovement               2             337.0                 57.5
+Car&Motorbike                 1            2339.0                 42.0
+Health&PersonalCare           1             899.0                 53.0
+Toys&Games                    1             150.0                  0.0
+Air conditioner rows: 1 mean discounted INR: 42990.0
